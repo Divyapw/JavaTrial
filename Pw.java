@@ -1,6 +1,10 @@
 class PW
 {
-public void ml()
+   public void ml()
+{
+   ////code
+}
+   public void ml()
 {
    ////code
 }
